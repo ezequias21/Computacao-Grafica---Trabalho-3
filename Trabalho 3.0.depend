@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1577016482 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\camera.cpp
+	<GL/glut.h>
+	<iostream>
+
+1426360528 c:\program files (x86)\codeblocks\mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\program files (x86)\codeblocks\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1577043726 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\polygon.h
+	<vector>
+
+1577046892 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\nave.h
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1577067748 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\draw.cpp
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<ctime>
+	"draw.h"
+
+1577111353 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\draw.h
+	"polygon.h"
+	<iostream>
+	<vector>
+
+1577067449 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\nave.cpp
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	"nave.h"
+	<iostream>
+	<cmath>
+	<vector>
+
+1577109717 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\polygon.cpp
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1577110674 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\main.cpp
+	<GL/glut.h>
+	<vector>
+	"polygon.h"
+	"draw.h"
+	"nave.h"
+	"mouse.h"
+	"tela.h"
+	"camera.h"
+	"points.h"
+
+1577017285 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\camera.h
+	<GL/glut.h>
+	<iostream>
+
+1577109928 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\mouse.cpp
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<vector>
+	"points.h"
+
+1577015201 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\mouse.h
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1577111351 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\tela.h
+	"polygon.h"
+	<iostream>
+	<vector>
+
+1577111451 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\tela.cpp
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1577110965 source:c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\points.cpp
+	<GL/glut.h>
+	"polygon.h"
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1577046406 c:\users\socor\documents\período vii\computação gráfica\nova pasta\trabalho 3.0\points.h
+	<iostream>
+
